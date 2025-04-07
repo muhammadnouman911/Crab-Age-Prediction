@@ -53,9 +53,28 @@ Each model's folder contains:
 git clone https://github.com/muhammadnouman911/Crab-Age-Prediction.git
 cd Crab-Age-Prediction
 ```
+### 3. Run the Models
+Open **Jupyter Notebook** or **Google Colab** to explore each model's notebook for training and predictions.
 
-### 2. Install Required Libraries
-```bash
-pip install numpy pandas matplotlib scikit-learn tensorflow
-```
+---
+
+## 🎯 Project Goal
+
+The goal of this project is to apply and compare various regression models to predict the age of crabs based on their physical attributes.  
+This project demonstrates the application of regression techniques in biological data analysis.
+
+---
+
+## 📬 Contact
+
+📧 [muhammadnouman911@github.com](mailto:muhammadnouman911@github.com)  
+⭐ If this project helps you, consider starring the repository!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
 
